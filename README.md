@@ -1,5 +1,5 @@
-# Statistic-and-Probability 
-Basic Statistic and Probability Concepts in Data Science with Examples
+# Statistics-and-Probability 
+Basic Statistics and Probability Concepts in Data Science with Examples
 
 ### Reference:
 https://www.simplilearn.com/big-data-and-analytics/senior-data-scientist-masters-program-training
